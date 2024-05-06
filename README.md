@@ -1,11 +1,25 @@
 # PruebaRuuf
 
-## Requerimientos
+## Soja
+
+- Instalar puppeteer con:
+```
+npm i puppeteer
+```
+- Ejecutar con:
+```
+node soja.js
+```
+- Los resultados se entregarán en la consola
+
+## Paneles
+
+### Requerimientos
 
 - Node
 - Se trabajó con 20.12.0, pero versiones más antiguas deberían funcionar
 
-## Ejecucion
+### Ejecucion
 
 - Cambiar los valores que se desean de la función main en la línea 38, según se desee
 - Los primeros 2 valores corresponder a las medidas del techo (No importa el orden)
