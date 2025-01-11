@@ -1,17 +1,5 @@
 # PruebaRuuf
 
-## Soja
-
-- Instalar puppeteer con:
-```
-npm i puppeteer
-```
-- Ejecutar con:
-```
-node soja.js
-```
-- Los resultados se entregarán en la consola
-
 ## Paneles
 
 ### Requerimientos
